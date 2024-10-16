@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-.hero{
+.calender{
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(45deg, #1d0000, #20205b);
@@ -31,13 +31,13 @@
 }
 .right{
     width: 42%;
-    background: #f4351e;
+    background: blue;
     color: #fff;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
 }
 .left{
-    width: 58%;
+    width: 59%;
 }
 #date{
     font-size: 100px;
